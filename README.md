@@ -40,4 +40,4 @@ I'm a Software Engineer passionate about technology and eager to share my journe
 
 Feel free to explore my repositories and reach out for collaboration or just to connect! 😊
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ShivamTejpal.ShivamTejpal)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ShivamTejpal&left_color=green&right_color=red)
