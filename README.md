@@ -4,8 +4,7 @@ I'm a Software Engineer passionate about technology and eager to share my journe
 
 👨‍💻 About Me:
 - 🎓 Studied Computer Science and Engineering at Dy Patil International University.
-- 🌱 Currently learning Full-stack development.
-- 🔭 Working on machine learning projects, especially in image classification.
+- 🔭 Working on Selenium Automation, machine learning projects, APIs.
 - 👯 Open to collaborating on interesting projects.
 - 📫 You can reach me at: [Shivamtejpal86@gmail.com](mailto:Shivamtejpal86@gmail.com).
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/shivam-tejpal/)!
@@ -13,7 +12,6 @@ I'm a Software Engineer passionate about technology and eager to share my journe
 # 💻 Tech Stack:
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
